@@ -1,5 +1,3 @@
-# COTT® Electronics
-
 <p align="center">
   <img height="150" src="https://www.cottelectronics.com/wp-content/uploads/2020/05/logo_R_white.png">
 </p>
